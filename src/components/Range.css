@@ -1,0 +1,14 @@
+.range {
+    width: 100%;
+    height: 16px;
+    background: var(--dark-gray-a);
+    border-radius: 10px;
+    position: relative;
+}
+
+.range-after {
+    position: absolute;
+    inset: 0;
+    background: var(--moderate-cyan);
+    border-radius: 10px;
+}

@@ -1,0 +1,65 @@
+.box {
+    padding: 20px;
+    border: 1px solid var(--dark-gray-a);
+    border-radius: 5px;
+    margin-block: 20px;
+}
+
+.box h4 {
+    margin-bottom: 10px;
+}
+
+.box .pledge {
+    color: var(--moderate-cyan);
+}
+
+.box p {
+    margin-top: 20px;
+}
+
+.span {
+    color: var(--dark-gray);
+    font-size: smaller;
+    font-weight: 400;
+    margin-right: 6px;
+}
+
+.left-div {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 8px;
+}
+
+.box h1 {
+    font-size: 32px;
+}
+
+.box button {
+    margin-block: 20px;
+}
+
+.not-available {
+    opacity: .4;
+}
+
+.not-available button {
+    background: var(--dark-gray);
+}
+
+.not-available button:hover {
+    background: var(--dark-gray);
+}
+
+@media screen and (min-width: 700px){
+    .d-flex {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .d-flex .pledge {
+        width: 100%;
+        text-align: right;
+    }
+}

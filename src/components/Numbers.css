@@ -1,0 +1,7 @@
+@media screen and (min-width: 700px){
+    .number-boxes {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}

@@ -1,0 +1,26 @@
+.btn {
+    padding: 15px 40px;
+    border-radius: 50px;
+    background: var(--moderate-cyan);
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    outline: none;
+    color: #fff;
+}
+
+.btn:hover {
+    background: var(--dark-cyan);
+}
+
+.bookmark-btn:hover  {
+    background: var(--light-gray-a);
+}
+
+.bookmark-btn:hover a {
+    color: #666;
+}
+
+.bookmark-btn:hover .bookmark-icon {
+    background: var(--dark-cyan);
+}
