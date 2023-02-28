@@ -41,9 +41,9 @@ const Nav = ({ appRef }) => {
         <img src={logo} alt="" />
       </div>
       <ul ref={menuRef} >
-        <li><a href="/"> About</a></li>
-        <li><a href="/">Discover</a></li>
-        <li><a href="/">Get Started</a></li>
+        <li><a href=""> About</a></li>
+        <li><a href="">Discover</a></li>
+        <li><a href="">Get Started</a></li>
       </ul>
       <div ref={closeRef} onClick={closeNavModal} className="close d-none">
         <img src={close} alt="" />
@@ -54,9 +54,9 @@ const Nav = ({ appRef }) => {
 
 
       <ul ref={navModalRef} className="nav-modal-ref d-none">
-        <li><a href="/"> About</a></li>
-        <li><a href="/">Discover</a></li>
-        <li><a href="/">Get Started</a></li>
+        <li><a href=""> About</a></li>
+        <li><a href="">Discover</a></li>
+        <li><a href="">Get Started</a></li>
       </ul>
 
 
