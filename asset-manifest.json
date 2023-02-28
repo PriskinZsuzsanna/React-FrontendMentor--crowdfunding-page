@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-FrontendMentor--crowdfunding-page/static/css/main.ff0b4b8a.css",
-    "main.js": "/React-FrontendMentor--crowdfunding-page/static/js/main.b303f143.js",
+    "main.js": "/React-FrontendMentor--crowdfunding-page/static/js/main.ea3be776.js",
     "static/js/787.c1b40852.chunk.js": "/React-FrontendMentor--crowdfunding-page/static/js/787.c1b40852.chunk.js",
     "static/media/image-hero-desktop.jpg": "/React-FrontendMentor--crowdfunding-page/static/media/image-hero-desktop.631209c1fe8e34fb78c2.jpg",
     "static/media/image-hero-mobile.jpg": "/React-FrontendMentor--crowdfunding-page/static/media/image-hero-mobile.d4f477d4cd11ac3a012f.jpg",
@@ -13,11 +13,11 @@
     "static/media/icon-bookmark.svg": "/React-FrontendMentor--crowdfunding-page/static/media/icon-bookmark.7777f8ecb9146d532ec6d401ce72f26e.svg",
     "static/media/icon-hamburger.svg": "/React-FrontendMentor--crowdfunding-page/static/media/icon-hamburger.f8a9f0cf12d419a7d18556f98d81a47e.svg",
     "main.ff0b4b8a.css.map": "/React-FrontendMentor--crowdfunding-page/static/css/main.ff0b4b8a.css.map",
-    "main.b303f143.js.map": "/React-FrontendMentor--crowdfunding-page/static/js/main.b303f143.js.map",
+    "main.ea3be776.js.map": "/React-FrontendMentor--crowdfunding-page/static/js/main.ea3be776.js.map",
     "787.c1b40852.chunk.js.map": "/React-FrontendMentor--crowdfunding-page/static/js/787.c1b40852.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff0b4b8a.css",
-    "static/js/main.b303f143.js"
+    "static/js/main.ea3be776.js"
   ]
 }
