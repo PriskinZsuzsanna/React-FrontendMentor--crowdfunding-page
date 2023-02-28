@@ -26,7 +26,7 @@ const Modal = ({ modal, onClose, appRef, }) => {
                 <p> Your pledge brings us one step closer to sharing Mastercraft Bamboo Monitor Riser worldwide. You will get
                     an email once our campaign is completed.
                 </p>
-                <button onClick={gotIt} className='btn'><a href="/">Got it!</a></button>
+                <button onClick={gotIt} className='btn'><a href="/React-FrontendMentor--crowdfunding-page">Got it!</a></button>
             </div>
 
 
