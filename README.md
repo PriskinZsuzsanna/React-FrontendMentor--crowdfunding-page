@@ -30,8 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![Screenshot](https://user-images.githubusercontent.com/121173949/222003701-da784f52-0c37-45d1-80fb-da86d7701d1f.png)
 
 
 ### Links
